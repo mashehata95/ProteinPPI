@@ -1,0 +1,10 @@
+biopython>=1.79
+numpy>=1.21
+freesasa>=2.0
+scipy>=1.7
+
+# Optional — required only for --affinity (binding affinity + pKa)
+# Install via:  pip install propka pdb2pqr prodigy-prot
+propka>=3.5
+pdb2pqr>=3.6
+prodigy-prot>=0.1
